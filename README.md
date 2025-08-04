@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @nursala
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-nursala/nursala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @nursala (Nour Salah)
+- 👀 I’m interested in mobile app development, competitive programming, and creative tech projects.
+- 🌱 I’m currently learning advanced Flutter, backend integration, and improving my C++ & JavaScript skills.
+- 💞️ I’m looking to collaborate on Flutter apps, open-source tools, or student-led tech projects.
+- 📫 How to reach me: noursalaا1415@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I built a movie app using Flutter, BLoC, and API integration — and I love learning by building real things!
