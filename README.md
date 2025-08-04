@@ -2,6 +2,6 @@
 - 👀 I’m interested in mobile app development, competitive programming, and creative tech projects.
 - 🌱 I’m currently learning advanced Flutter, backend integration, and improving my C++ & JavaScript skills.
 - 💞️ I’m looking to collaborate on Flutter apps, open-source tools, or student-led tech projects.
-- 📫 How to reach me: noursalaا1415@gmail.com
+- 📫 How to reach me: noursalah1415@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I built a movie app using Flutter, BLoC, and API integration — and I love learning by building real things!
