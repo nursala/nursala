@@ -9,6 +9,7 @@ Computer Science graduate building software across C++, backend systems, and Flu
 
 | Project | What I built | Stack |
 | --- | --- | --- |
+| [Satellite Change Detector](https://github.com/nursala/nursala/tree/main/projects/change-detection) | MATLAB app that aligns satellite images, compares structural similarity, and marks candidate changes. Includes six sample cases and an original result screenshot. Team project. | MATLAB, Image Processing, Computer Vision |
 | [Smart University Advisor](https://github.com/nursala/smart_university_advisor) | Course planning and recommendations, enrollment rules, authentication, and an AI advisor. The API includes documented transaction and concurrency behavior. | C++, Drogon, PostgreSQL, React |
 | [Bullet Echo](https://github.com/nursala/OOP2-project) | Top-down tactical game with cone vision, enemy behavior, pathfinding, weapons, and map loading. | C++, SFML, Box2D |
 | [Bomberman](https://github.com/nursala/oop1_project_final) | Arcade game with multiple screens, levels, destructible obstacles, enemies, and resource management. | C++, SFML |
