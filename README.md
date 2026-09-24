@@ -15,6 +15,10 @@ Computer Science graduate building software across C++, backend systems, and Flu
 | [Product Review Classification](https://github.com/nursala/nlp-product-reviews-classification) | Group research project comparing classical NLP, recurrent models, and Transformers for five-class review ratings. | Python, scikit-learn, PyTorch |
 | [Flutter Movie App](https://github.com/nursala/flutter_movies_app_master) | Movie discovery and details with BLoC state management and a TMDb integration. | Flutter, Dart, BLoC |
 
+### Gameplay preview
+
+[![Watch Bullet Echo gameplay](https://img.youtube.com/vi/JL1c-vySePA/hqdefault.jpg)](https://www.youtube.com/watch?v=JL1c-vySePA)
+
 ## How I work
 
 - I build end-to-end projects and document setup, architecture, tradeoffs, and limitations.
