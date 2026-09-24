@@ -18,7 +18,7 @@ I build software across C++ applications, REST APIs, data projects, and mobile i
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| **[Satellite Change Detector](projects/change-detection/README.md)** | Aligns satellite images and marks candidate changes using feature matching, image registration, and SSIM. Includes six cases and an original application screenshot. Team project. | MATLAB · Computer Vision |
+| **[Satellite Change Detector](https://github.com/nursala/satellite-change-detector)** | Aligns satellite images and marks candidate changes using feature matching, image registration, and SSIM. Includes six cases and an original application screenshot. Team project. | MATLAB · Computer Vision |
 | **[Smart University Advisor](https://github.com/nursala/smart_university_advisor)** | Course planning, enrollment rules, authentication, and an AI advisor; includes documented database concurrency behavior. | C++ · Drogon · PostgreSQL · React |
 | **[Bullet Echo](https://github.com/nursala/OOP2-project)** | Top-down game with cone vision, enemy behavior, pathfinding, and weapons. Team project. | C++ · SFML · Box2D |
 | **[Bomberman](https://github.com/nursala/oop1_project_final)** | Multi-screen arcade game with levels, destructible obstacles, and resource management. | C++ · SFML |
@@ -27,7 +27,7 @@ I build software across C++ applications, REST APIs, data projects, and mobile i
 
 ### In action
 
-[![Satellite Change Detector: aligned imagery, difference heatmap, and marked regions](projects/change-detection/assets/demo.svg)](projects/change-detection/README.md)
+[![Satellite Change Detector: aligned imagery, difference heatmap, and marked regions](https://raw.githubusercontent.com/nursala/satellite-change-detector/main/assets/demo.svg)](https://github.com/nursala/satellite-change-detector)
 
 *Original application screenshot from the Change Detector project report.*
 
