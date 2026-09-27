@@ -1,54 +1,75 @@
-<h1 align="center">Nour Salah</h1>
+<h1 align="center">Noor Salah</h1>
+<p align="center"><strong>Software Developer · Computer Science Graduate</strong></p>
+<p align="center">C++ applications, backend development, and data-driven software.<br>Jerusalem, Israel · Open to junior software development opportunities</p>
 
 <p align="center">
-  Computer Science graduate · Software engineer focused on C++, backend systems, and Flutter<br>
-  Jerusalem, Israel · Open to junior software engineering opportunities
-</p>
-
-<p align="center">
-  <a href="mailto:noursalah1415@gmail.com"><img alt="Email Nour" src="https://img.shields.io/badge/Email-noursalah1415%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/nursala?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/Explore-Projects-0f172a?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="mailto:noursalah1415@gmail.com"><img alt="Email Noor" src="https://img.shields.io/badge/Email-Contact_me-2563eb?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a>
+  <a href="https://github.com/nursala?tab=repositories"><img alt="Browse repositories" src="https://img.shields.io/badge/GitHub-Projects-111827?style=flat-square&amp;logo=github&amp;logoColor=white"></a>
 </p>
 
 ## About me
 
-I build software across C++ applications, REST APIs, data projects, and mobile interfaces. I enjoy working through algorithms and system behavior, then documenting how a project works and where its limits are.
+I'm a Computer Science graduate based in Jerusalem. My projects span C++ games and services, Python and Django applications, NLP experiments, and Flutter interfaces. I'm interested in backend development, algorithms, and understanding how software behaves from the data model to the user interface.
 
-## Featured projects
+## Selected projects
 
-| Project | What it demonstrates | Stack |
+### [Smart University Advisor](https://github.com/nursala/smart_university_advisor)
+**C++ · Drogon · PostgreSQL · React · TypeScript**
+
+A full-stack application for course eligibility, semester planning, and AI-assisted academic advice. Includes JWT authentication, role-aware authorization, enrollment rules, and an advisor backed by eight read/analysis tools.
+
+[Source & setup](https://github.com/nursala/smart_university_advisor) · [Agent demonstration](https://github.com/nursala/smart_university_advisor/blob/main/docs/agent-demo.md) · [Concurrency notes](https://github.com/nursala/smart_university_advisor/blob/main/docs/concurrency-test.md)
+
+### [Bullet Echo](https://github.com/nursala/OOP2-project)
+**C++ · SFML · Box2D · Candle · Team project**
+
+A tactical top-down shooter combining cone vision, enemy states, A* pathfinding, and multiple weapon types. Demonstrates object-oriented design, resource management, and real-time game systems.
+
+[Source & setup](https://github.com/nursala/OOP2-project) · [Watch gameplay](https://www.youtube.com/watch?v=JL1c-vySePA)
+
+### [Product Review Rating Classification](https://github.com/nursala/nlp-product-reviews-classification)
+**Python · scikit-learn · PyTorch · Transformers · Team project**
+
+A six-stage NLP study comparing classical models, recurrent networks, and fine-tuned Transformers for 1–5 star rating prediction. Includes saved experiment results, a BERT test confusion matrix, and error analysis.
+
+[Notebooks & results](https://github.com/nursala/nlp-product-reviews-classification)
+
+### [Satellite Image Change Detector](https://github.com/nursala/satellite-change-detector)
+**MATLAB · Computer Vision · Team project**
+
+A desktop application that aligns satellite images, computes SSIM differences, and marks candidate changed regions. Includes six sample cases and an original application screenshot.
+
+[Source, screenshot & setup](https://github.com/nursala/satellite-change-detector)
+
+## Project previews
+
+<a href="https://www.youtube.com/watch?v=JL1c-vySePA"><img src="https://img.youtube.com/vi/JL1c-vySePA/hqdefault.jpg" alt="Bullet Echo gameplay video" width="440"></a>
+
+*Bullet Echo — click to watch the original gameplay demonstration.*
+
+<a href="https://github.com/nursala/satellite-change-detector"><img src="https://raw.githubusercontent.com/nursala/satellite-change-detector/main/assets/demo.svg" alt="MATLAB application showing aligned satellite images, a difference map, and detected regions" width="800"></a>
+
+*Satellite Change Detector — original application output from the project report.*
+
+## More projects
+
+| Project | Focus | Technologies |
 | --- | --- | --- |
-| **[Satellite Change Detector](https://github.com/nursala/satellite-change-detector)** | Aligns satellite images and marks candidate changes using feature matching, image registration, and SSIM. Includes six cases and an original application screenshot. Team project. | MATLAB · Computer Vision |
-| **[Smart University Advisor](https://github.com/nursala/smart_university_advisor)** | Course planning, enrollment rules, authentication, and an AI advisor; includes documented database concurrency behavior. | C++ · Drogon · PostgreSQL · React |
-| **[Bullet Echo](https://github.com/nursala/OOP2-project)** | Top-down game with cone vision, enemy behavior, pathfinding, and weapons. Team project. | C++ · SFML · Box2D |
-| **[Bomberman](https://github.com/nursala/oop1_project_final)** | Multi-screen arcade game with levels, destructible obstacles, and resource management. | C++ · SFML |
-| **[Review Classification](https://github.com/nursala/nlp-product-reviews-classification)** | Compares classical NLP, recurrent networks, and Transformers for rating prediction. Includes a test confusion matrix. Team project. | Python · scikit-learn · PyTorch |
-| **[Flutter Movie Browser](https://github.com/nursala/flutter_movies_app_master)** | Movie and TV discovery, search, filters, and details with BLoC state management. | Flutter · Dart · BLoC |
+| [Bomberman](https://github.com/nursala/oop1_project_final) | Arcade gameplay, object interactions, level loading | C++, SFML |
+| [Flutter Movie Browser](https://github.com/nursala/flutter_movies_app_master) | API integration, discovery/search, loading and error states | Dart, Flutter, BLoC |
+| [Bike Shop](https://github.com/nursala/Bike-Shop) | Relational models, class-based views, forms, and inventory | Python, Django |
+| [Recursive Regex Engine](https://github.com/nursala/Regex-Engine) | Recursive pattern matching and backtracking | Python |
+| [MetroBakery Dashboard](https://github.com/nursala/task) | Responsive dashboard UI with sample data | HTML, CSS, Bootstrap |
 
-### In action
+## Technical toolkit
 
-[![Satellite Change Detector: aligned imagery, difference heatmap, and marked regions](https://raw.githubusercontent.com/nursala/satellite-change-detector/main/assets/demo.svg)](https://github.com/nursala/satellite-change-detector)
-
-*Original application screenshot from the Change Detector project report.*
-
-[![Watch Bullet Echo gameplay](https://img.youtube.com/vi/JL1c-vySePA/hqdefault.jpg)](https://www.youtube.com/watch?v=JL1c-vySePA)
-
-*Watch the Bullet Echo gameplay video.*
-
-## Languages and tools
-
-<p>
-  <img alt="C++" title="C++" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Python" title="Python" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img alt="Dart" title="Dart" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
-  <img alt="Flutter" title="Flutter" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-  <img alt="TypeScript" title="TypeScript" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img alt="Node.js" title="Node.js" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img alt="PostgreSQL" title="PostgreSQL" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img alt="React" title="React" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img alt="Git" title="Git" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-</p>
+| Area | Technologies used |
+| --- | --- |
+| Languages | C++, Python, TypeScript, JavaScript, Dart, SQL, MATLAB |
+| Backend & data | Django, Node.js, Drogon, PostgreSQL, SQLite |
+| Interfaces | React, Flutter, HTML, CSS |
+| Tools & libraries | Git, Docker, CMake, SFML, scikit-learn, PyTorch |
 
 ---
 
-<p align="center"><a href="mailto:noursalah1415@gmail.com">Get in touch</a> · <a href="https://github.com/nursala?tab=repositories">See all repositories</a></p>
+**Let's connect:** [noursalah1415@gmail.com](mailto:noursalah1415@gmail.com)
