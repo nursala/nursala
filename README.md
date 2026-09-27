@@ -1,5 +1,5 @@
 <h1 align="center">Noor Salah</h1>
-<p align="center"><strong>Software Developer · Computer Science Graduate</strong></p>
+<p align="center"><strong>Software Developer · C++ & Python</strong></p>
 <p align="center">C++ applications, backend development, and data-driven software.<br>Jerusalem, Israel · Open to junior software development opportunities</p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## About me
 
-I'm a Computer Science graduate based in Jerusalem. My projects span C++ games and services, Python and Django applications, NLP experiments, and Flutter interfaces. I'm interested in backend development, algorithms, and understanding how software behaves from the data model to the user interface.
+I'm a software developer based in Jerusalem. I have completed my Computer Science studies and am awaiting my final grade and official degree eligibility. My projects span C++ games and services, Python and Django applications, NLP experiments, and Flutter interfaces. I'm interested in backend development, algorithms, and understanding how software behaves from the data model to the user interface.
 
 ## Selected projects
 
